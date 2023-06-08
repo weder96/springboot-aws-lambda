@@ -1,0 +1,3 @@
+com/wsousa/aws/lambda/SpringbootAwsLambdaApplication.class
+com/wsousa/aws/lambda/domain/Order.class
+com/wsousa/aws/lambda/respository/OrderDao.class
