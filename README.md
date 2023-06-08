@@ -94,7 +94,7 @@ mvn clean install
 
 ## Result
 
-![target](./documentation/result.png)
+![target](./documentation/result2.png)
 
 
 
